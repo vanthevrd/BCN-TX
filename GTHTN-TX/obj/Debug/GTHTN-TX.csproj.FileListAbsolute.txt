@@ -1,0 +1,17 @@
+D:\GTHTN-TX\GTHTN-TX\bin\Debug\GTHTN-TX.exe.config
+D:\GTHTN-TX\GTHTN-TX\bin\Debug\GTHTN-TX.exe
+D:\GTHTN-TX\GTHTN-TX\bin\Debug\GTHTN-TX.pdb
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN-TX.csproj.AssemblyReference.cache
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN-TX.csproj.SuggestedBindingRedirects.cache
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN_TX.Main.resources
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN_TX.Properties.Resources.resources
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN-TX.csproj.GenerateResource.cache
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN-TX.csproj.CoreCompileInputs.cache
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN-TX.exe
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN-TX.pdb
+D:\GTHTN-TX\GTHTN-TX\bin\Debug\Ivi.Visa.xml
+D:\GTHTN-TX\GTHTN-TX\bin\Debug\NationalInstruments.Visa.xml
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN-TX.exe.config
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN-TX.csproj.CopyComplete
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN_TX.uc_Kolchuga.uc_Kolchuga_M0.resources
+D:\GTHTN-TX\GTHTN-TX\obj\Debug\GTHTN_TX.uc_Kolchuga.uc_Kolchuga_M1.resources
